@@ -1,0 +1,142 @@
+/* Styles go here */
+
+body
+{
+background-color: #fff;
+
+}
+
+#container
+{
+margin: 0 auto;
+width: 800px;
+padding: 0;
+font-size: 95%;
+font-family: Herculanum, times;
+color: #000;
+background-image: url("http://upload.wikimedia.org/wikipedia/commons/4/47/Map_of_ancient_Rome.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+#header
+{
+color: #036;
+border-bottom: 1px solid #000;
+background:#2FC362;
+color: #000;
+}
+
+#header h1
+{
+margin: 0;
+padding: .3em 0 .3em .5em;
+font-size: 2.2em;
+font-weight: normal;
+}
+
+
+#stretch { 
+  border: 15px solid transparent;
+  padding: 10px 20px;
+}
+
+#content
+{
+background: #FAFAFA;
+opacity: 0.8;
+margin-left: 35px;
+margin-right: auto;
+width: 20em;
+font-family: Herculanum;
+}
+
+#content h2
+{
+font-size: 2em;
+color: #000000;
+margin-top: 40;
+padding: 20;
+font-weight: normal;
+}
+
+#klik1 
+{
+position: absolute;
+top: 80px;
+height: 50px;
+width: 120px;
+margin-top: 150px;
+margin-left: 560px;
+padding: .3em 0 .3em .5em;
+}
+
+#klik1 h3
+{
+background:#2FC362;
+width: 180px;
+margin-left: 4px;
+}
+
+#klik2
+{
+position: absolute;
+bottom: 10px;
+height: 50px;
+width: 120px;
+margin-top: 80px;
+margin-left: 560px;
+padding: .3em 0 .3em .5em;
+}
+
+#klik2 h3
+{
+background:#2FC362;
+width: 180px;
+}
+
+#win
+{
+float: right;
+width: 320px;
+margin-top: 780px;
+margin-right: 15px;
+color: #000;
+background:#2FC362;
+padding: .3em 0 .3em .5em;
+}
+
+#win header
+{
+margin-top: 2em;
+color: #190707;
+padding: 40;
+
+}
+
+#cleardiv
+{
+clear: both;
+height: 1em;
+}
+
+#footer
+{
+background:#2FC362;
+text-align: right;
+padding: 10px;
+}
+
+#footer ul
+{
+padding: 0;
+margin: 0;
+}
+
+#footer li
+{
+display: inline;
+margin-right: 1em;
+}
+
